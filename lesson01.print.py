@@ -4,22 +4,22 @@ print("sum: ", 4 + 5)
 # This is a comment
 #DATA TYPES
 
-# 1. STRINGS:
+# 1. STRINGS:#anything with quotes
 print("Hello world")
 print("once upon a time \na cow fell off a cliff. \nffilc a ffo llef woc emit a nopu ecno")
 print("name: \tbilly \nage: \t14 \nGrade: /t9th")
-# INTEGERS
+# 2 INTEGERS #whole numbers are integers
 
 print(42)
 print(-23)
 print(5 + 5 - 11) #comment
 
-# FLOAT
+# 3 FLOAT #decimals
 print(4.0)
 print(2.0 + 4.5)
 print(2.0 + 4)
 
-#BOOLEAN
+# 4 BOOLEAN == T or F 
 print(True) #1
 print(False) #0
 print(1 == 1)

@@ -18,8 +18,10 @@ print("Float Division: ", divide)
 integer_divide = 7 // 2
 print("Integer division: ", integer_divide)
 
+#divides and gives R
 Modulus = 7 % 2
 print("mosulus: ", Modulus)
+
 #to the power of #ect
 exponet = 7 ** 2
 print("Exponet: ", exponet)
@@ -40,3 +42,25 @@ print("result 4: ", result4)
 
 result5 = 5 + 2 ** 3 * (4 - 1)
 print("result 5: ", result5)
+
+#challanges
+
+#1
+Area = 8 * 5
+print("Answer: ", Area)
+
+#2
+Circlearea = 3.14 * 7
+print("Answer: ", Circlearea)
+
+#3
+Answr = (3 * 12.99) + (4 * 3.50)
+print("Answer: $", Answr)
+
+#4    #note: int(input )) takes user input
+int = int(input("Enter you number to check if it is even or odd: "))
+check = int % 2
+if check == 0: 
+    print("Even")
+else:
+    print("Odd")

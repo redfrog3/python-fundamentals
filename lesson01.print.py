@@ -22,9 +22,9 @@ print(2.0 + 4)
 # 4 BOOLEAN == T or F 
 print(True) #1
 print(False) #0
-print(1 == 1)
+print(1 == 1) # == means is equal
 print(1 == 2)
-print(1 != 2)
+print(1 != 2) #!= means is not equal
 print(1 != 1)
 print("hello" == "hello")
 print("Hello" == "hello")

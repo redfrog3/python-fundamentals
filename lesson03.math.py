@@ -64,3 +64,7 @@ if check == 0:
     print("Even")
 else:
     print("Odd")
+
+    # modulus
+Mod = 7 % 2
+print("modulus: ", Mod)

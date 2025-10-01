@@ -57,14 +57,10 @@ print("Answer: ", Circlearea)
 Answr = (3 * 12.99) + (4 * 3.50)
 print("Answer: $", Answr)
 
-#4    #note: int(input )) takes user input
+#4    #note: int(input( )) takes user input
 int = int(input("Enter you number to check if it is even or odd: "))
 check = int % 2
 if check == 0: 
     print("Even")
 else:
     print("Odd")
-
-    # modulus
-Mod = 7 % 2
-print("modulus: ", Mod)

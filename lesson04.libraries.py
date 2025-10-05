@@ -24,3 +24,10 @@ import math
 seed = 123.45
 step1 = /6.7
 print(step1)
+
+seed = 124442.4444
+step1 = seed / 6.7
+step2 = step1 - 800
+step3 = step2 + 180843
+result = math.floor(step3)
+print(result)

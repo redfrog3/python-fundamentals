@@ -67,3 +67,20 @@ print(f"Hello, my name is {name}.\nI am {age} years old \nand I live in {city}."
 # f-strings can do math and function calls inside {}
 
 print(f"Next year, i,ll be {age + 1}. My name in uppercase is {name.upper()}")
+
+#challange 1
+quote = input("Enter your favorate quote to find how many letters long it is: ")
+quote_length = len(quote)
+print(f"your quote is {quote_length} letters long")
+
+#2
+fn = input("Enter your first: ")
+ln = input("Enter your last name:")
+name = (f"{fn}, {ln}")
+print(f"hello {name}! I know where you live and your bank account!")
+
+#3
+word = input("enter a word: ")
+reversed_word = word[::-1]
+ruw = reversed_word.upper()
+print(ruw)

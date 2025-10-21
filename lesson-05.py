@@ -42,6 +42,5 @@ print("The area of a circle with the diameter of", Rad ,"is",Area)
 import random
 
 Sides = int(input("How many sides would you like you die to have?"))
-roll = random.radiant(1, sides)
-print("your rolled" roll)
-
+roll = random.radiant(1, Sides)
+print

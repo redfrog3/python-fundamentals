@@ -112,9 +112,12 @@ def average(num1, num2, num3):
 
 
 # 3
-#
-#
-#
+#def is_even(x)
+#odd <-""
+#if x modulus 2 = 0
+#display(is_even)
+#else
+#display(odd)
 
 def is_even(num):
     is_odd = ""
@@ -127,6 +130,13 @@ def is_even(num):
 
 
 # 4
+#def analyze_word(wrd)
+#vc <- 0
+#cc <- 0
+# vowels <- [a e i o u a e i o u ]
+#for index in wrd
+#if ondex = vowels display (+=1)
+#else display (-=)
 def analyze_word(word): 
 
     vowelCount = 0

@@ -76,3 +76,66 @@ def double_sequencer(number, times):
 
 result = double_sequencer(1, 5000)
 print(result)
+
+
+
+#1
+
+# PROCEDURE add(a, b)
+# display(a + b)
+# PROCEDURE subtract(a, b)
+# display(a - b)
+# PROCEDURE divide(a, b)
+# display(a / b)
+# PROCEDURE multiply(a, b)
+# display(a * b)
+
+def express_this(e)
+    return(e)
+add = express_this(a + b)
+print(add)
+subtract = express_this(a - b)
+print(subtract)
+divide = express_this(a / b)
+print(divide)
+multply = express_this(a * b)
+print(multply)
+
+# 2
+# def avergage(n1, n2, n3)
+# average(n1 +n2 + n3) /3
+# display(average)
+
+def average(num1, num2, num3):
+    average = (num1 + num2 + num3) / 3
+    return average
+
+
+# 3
+#
+#
+#
+
+def is_even(num):
+    is_odd = ""
+    if num % 2 == 0:
+        return(is_even)
+    else:
+        return(is_odd)
+
+
+
+
+# 4
+def analyze_word(word): 
+
+    vowelCount = 0
+
+    consonantCount = 0
+
+vowels = ["a""e""i""o""u""A""E""I""O""U"]
+    for i in word
+        if i == vowels:
+            return( += 1)
+        else:
+            return( -=)
